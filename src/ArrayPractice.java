@@ -36,10 +36,6 @@ public class ArrayPractice {
      * Arrays start at index 0
      */
 
-     
-
     
-
-
   }
 }
